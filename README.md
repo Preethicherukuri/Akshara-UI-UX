@@ -54,7 +54,7 @@ The goal of this project was to create a **user-friendly and visually appealing 
 ---
 
 ## File Structure
-'''
+```
 /Akshara-Bookstore-Design
 │
 ├─ /Home.png
@@ -64,10 +64,7 @@ The goal of this project was to create a **user-friendly and visually appealing 
 ├─ /Giveaway.png
 ├─ /Franchise.png
 └─ README.md
-'''
-
----
-
+```
 
 ---
 
