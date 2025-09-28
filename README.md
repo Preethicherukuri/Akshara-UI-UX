@@ -73,6 +73,3 @@ Open the Figma files with the **Figma desktop app** or in your **browser**:
 (https://www.figma.com/design/E2xBjeEVJJruzoGfEiQF87/Akshara?node-id=0-1&t=hVHOSc63yVMJ1oKv-1)
 
 ---
-
-
-## File Structure
